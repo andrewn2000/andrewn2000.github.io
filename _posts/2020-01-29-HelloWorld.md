@@ -6,7 +6,7 @@ Not typing in the username exactly\!
 
 I know, its such a simple task, but how to resolve it? Do I just continue? But it doesn’t work and I hit my first stumbling block. I tried a few tasks within github to no avail. I even renamed it to the proper name, but still no go.
 
-![](/images/name/image1.png)
+![](/images/name/media/image1.png)
 
 So I deleted the repo and started again, this time being extra careful…and then voila it worked in 30 seconds.
 
