@@ -15,3 +15,8 @@ Also, it might be good to have a checklist on things I need/want to accomplish (
 
 Anyhow, I also would like to be more diligent wriiting here and documenting my journey for those coming after me.
 Let's see how far I get today.
+
+**Update**
+I was able to meet with Jose Ochoa (and oshan) from TWIML.  We discussed next steps but it may be that I start my course right as I was thinking on Sept 9.
+Very excited.  Also made paperspace account and it had a github settings so not sure if they will go in there or not.
+In paperspace, I had to wait until a free server was available as I was going to put a cc but thought I'd better wait.  Good thing I did just to try it out.
