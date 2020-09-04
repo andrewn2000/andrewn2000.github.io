@@ -1,3 +1,5 @@
+# Chapter 1 - thoughts and reflections
+
 I finally managed to get through chapter 1 and the labs.  It was a challenge using Gradient as one of the labs continued to get an error.
 
 ```python
