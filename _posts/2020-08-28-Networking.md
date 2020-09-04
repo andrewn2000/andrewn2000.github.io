@@ -1,3 +1,5 @@
+# Out of my shell onto the virtual stage!
+
 Before I dive into my journey, I thought I'd get a lay of the land first and reach out and make new contacts and friends.
 My first thought is just plowing through the material like before, but I run into some difficulties with this.
 
