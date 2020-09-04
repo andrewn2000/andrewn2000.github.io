@@ -1,3 +1,5 @@
+# Why did I ever start the Ethics course?!?!
+
 As I stated previously, I never really thought (or cared) about ethics.  I was only interested in taking my technological skills to the next level.
 This ethics thing got me interested.
 I'm not really a fan of academia, but in the course there are many articles written in just that.
