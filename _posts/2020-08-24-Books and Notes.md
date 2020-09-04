@@ -1,3 +1,5 @@
+# Books and notes, and more notes!
+
 Here we go AGAIN!
 Skipping to FastAI v2, is somewhat different.  First, I've been through several of the v1 videos and got the terminology in my head.  So it was a refresher and breather
 that I'm able to get through video 1 of the new course without too many ????
