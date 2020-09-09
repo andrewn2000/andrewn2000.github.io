@@ -1,5 +1,7 @@
-<!DOCTYPE html>
-<meta charset="utf-8">
-<title>Redirecting to https://andynakamura.com/dl-blog</title>
-<meta http-equiv="refresh" content="0; URL=https://andynakamura.com/dl-blog">
-<link rel="canonical" href="https://andynakamura.com/dl-blog">
+Hello Andy!  and welcome to this blog. Edit the `index.md` file to change this content. All pages on the blog, including this one, use [Markdown](https://guides.github.com/features/mastering-markdown/). You can include images:
+
+![Image of fast.ai logo](images/logo.png)
+
+## This is a title
+
+And you can include links, like this [link to fast.ai](https://www.fast.ai). Posts will appear after this file. 
